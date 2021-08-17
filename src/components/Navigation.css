@@ -30,13 +30,18 @@
 }
 
 .navbar-nav a {
-	color: var(--color-black);
+	color:whitesmoke;
+
   font-size: var(--font-size);
   transition: 0.15s all ease-in-out;
 }
 
 .navbar-nav a:hover, .navbar-nav a:focus {
+
   color: var(--color-violet-400);
+
+  color: whitesmoke;
+
 }
 
 .join-btn, .join-btn:hover, .join-btn:focus {
