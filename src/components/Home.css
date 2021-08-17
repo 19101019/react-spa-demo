@@ -1,0 +1,12 @@
+.background img {
+  width: 100%;
+  margin-top: 10%;
+  height: 100vh;
+  background-color: black;
+  margin:0;
+ -webkit-filter: brightness(20%);
+    filter:brightness(40%);
+}
+.background {
+   background-color: black;
+}

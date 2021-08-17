@@ -1,15 +1,20 @@
 import React from 'react';
-
+import './Home.css'
 const Home = () => {
 
     return (
-        <div className="row">
-            <div className="col-12">
-                <p>
-                    This is a sample Home page just to demonstrate routing demo
-                </p>
-            </div>
-        </div>
+      <div className="background">
+      
+     <img src="https://media.giphy.com/media/TGuQ8DHwjjgbJBNkUh/giphy.gif">
+     
+     
+     
+     
+     
+     
+     
+     </img>
+      </div>
 
     );
 
